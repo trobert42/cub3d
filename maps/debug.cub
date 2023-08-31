@@ -1,0 +1,14 @@
+NO ./img/debug_north.xpm
+SO ./img/debug_south.xpm
+WE ./img/debug_west.xpm
+EA ./img/debug_east.xpm
+F 0,20,255
+C 56,244,0
+
+111111
+100001
+101W01
+110011
+100001
+101101
+111111
