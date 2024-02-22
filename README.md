@@ -16,9 +16,11 @@ Cub3D is a challenging project centered around constructing a raycasting game en
   make bonus
   ./cub3D_bonus maps/bonus.cub
 ```
+You can change the map by editing the files finishing by .cub inside the map directory. Keep in mind that it follows some rules so if it's not correct, it will display some errors about it.
 
+NB:
 If you use WSL and have some trouble with "can't find a suitable x11 include directory", i suggest to follow those steps here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2
 
 ## Screenshots
-
+With my teammate, we found it funny to see the link's texture so we kept it like that.
 ![](https://github.com/trobert42/cub3d/blob/main/cub3d_bonus_clip.gif)
