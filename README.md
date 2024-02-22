@@ -21,4 +21,4 @@ If you use WSL and have some trouble with "can't find a suitable x11 include dir
 
 ## Screenshots
 
-![](https://github.com/trobert42/so_long/blob/main/cub3d_bonus_clip.gif)
+![](https://github.com/trobert42/cub3d/blob/main/cub3d_bonus_clip.gif)
