@@ -2,7 +2,7 @@
 
 Cub3D is a challenging project centered around constructing a raycasting game engine entirely from scratch, utilizing the C programming language. The primary objective of this endeavor is to render a 3D world within a 2D map, simulating navigation through intricate mazes. Your task is to develop a robust game engine capable of rendering walls, sprites, and managing player movement within a basic 3D setting.
 
-|    Project Name    |                                                                       so_long                                                                       |
+|    Project Name    |                                                                       cub3d                                                                       |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    Description     |                                             A 3D game created from scratch written in C using raycasting                                            |
 |    Technologies    | <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a> |
