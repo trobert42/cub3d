@@ -2,7 +2,7 @@
 
 Cub3D is a challenging project centered around constructing a raycasting game engine entirely from scratch, utilizing the C programming language. The primary objective of this endeavor is to render a 3D world within a 2D map, simulating navigation through intricate mazes. Your task is to develop a robust game engine capable of rendering walls, sprites, and managing player movement within a basic 3D setting.
 
-|    Project Name    |                                                                       so_long                                                                       |
+|    Project Name    |                                                                       cub3d                                                                       |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    Description     |                                             A 3D game created from scratch written in C using raycasting                                            |
 |    Technologies    | <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a> |
@@ -16,9 +16,11 @@ Cub3D is a challenging project centered around constructing a raycasting game en
   make bonus
   ./cub3D_bonus maps/bonus.cub
 ```
+You can change the map by editing the files finishing by .cub inside the map directory. Keep in mind that it follows some rules so if it's not correct, it will display some errors about it.
 
+NB:
 If you use WSL and have some trouble with "can't find a suitable x11 include directory", i suggest to follow those steps here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2
 
 ## Screenshots
-
-![](https://github.com/trobert42/so_long/blob/main/cub3d_bonus_clip.gif)
+With my teammate, we found it funny to see the link's texture so we kept it like that.
+![](https://github.com/trobert42/cub3d/blob/main/cub3d_bonus_clip.gif)
