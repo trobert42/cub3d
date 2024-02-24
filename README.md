@@ -1,6 +1,6 @@
 # 3D Game - MiniLibX
 
-Cub3D is a challenging project centered around constructing a raycasting game engine entirely from scratch, utilizing the C programming language. The primary objective of this endeavor is to render a 3D world within a 2D map, simulating navigation through intricate mazes. Your task is to develop a robust game engine capable of rendering walls, sprites, and managing player movement within a basic 3D setting.
+Cub3D is a challenging project centered around constructing a raycasting game engine entirely from scratch, utilizing the C programming language. The primary objective of this endeavor is to render a 3D world within a 2D map, simulating navigation through intricate mazes. Your task is to develop a robust game engine capable of rendering walls, sprites, and managing player movement within a basic 3D setting. The mathematical formulas were hard to understand and to implement correctly in the code but we were satisfied when the rendering was clean. I remember how i was happy when i just rendered a single block of blue in the screen, haha! 
 
 |    Project Name    |                                                                       cub3d                                                                       |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -21,6 +21,15 @@ You can change the map by editing the files finishing by .cub inside the map dir
 NB:
 If you use WSL and have some trouble with "can't find a suitable x11 include directory", i suggest to follow those steps here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2
 
+## Commands
+<sub>keyboard is in qwerty</sub> 
+A: turn the camera to the left
+D: turn the camera to the right
+W: move forward
+S: move back
+E: to appear/disappear the wood box (you have to be close and right in front of the block)
+
 ## Screenshots
-With my teammate, we found it funny to see the link's texture so we kept it like that.
+NB: With my teammate, we found it funny to see the link's texture so we kept it like that. It was her sprites for another project.
+Thank you Luna, it was interesting to work with you and we had so much fun !
 ![](https://github.com/trobert42/cub3d/blob/main/cub3d_bonus_clip.gif)
