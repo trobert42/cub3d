@@ -22,18 +22,18 @@ NB:
 If you use WSL and have some trouble with "can't find a suitable x11 include directory", i suggest to follow those steps here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2
 
 ## Commands
-<sub>keyboard is in qwerty</sub>
 
+`A` : turn the camera to the left
 
-`A`: turn the camera to the left
+`D` : turn the camera to the right
 
-`D`: turn the camera to the right
+`W` : move forward
 
-`W`: move forward
+`S` : move back
 
-`S`: move back
+`E` : to appear/disappear the wood box (you have to be close and right in front of the block)
 
-`E`: to appear/disappear the wood box (you have to be close and right in front of the block)
+<sub>keyboard is in qwerty, yes we code in EN</sub>
 
 ## Screenshots
 
